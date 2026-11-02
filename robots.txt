@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Replace YOUR-DOMAIN.example with the real public hostname before deployment.
+Sitemap: https://asadkhandev.netlify.app//sitemap.xml
